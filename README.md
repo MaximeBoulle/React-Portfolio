@@ -1,13 +1,26 @@
-# react-tailwind-portfolio
+# React Tailwind Portfolio
 
-+ <a href="https://www.youtube.com/watch?v=hYv6BM2fWd8">Design</a>
+This is a personal portfolio website built using React and Tailwind CSS. It showcases my projects, skills, and contact information.
 
-+ Made with tailwind
+## Table of Contents
 
-![Ekran görüntüsü 2023-01-28 221435](https://user-images.githubusercontent.com/104009655/215286744-b85473b0-22cd-4deb-9152-149cad4c90cd.png)
+- [React Tailwind Portfolio](#react-tailwind-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [License](#license)
+  - [Contact](#contact)
 
-![Ekran görüntüsü 2023-01-28 221445](https://user-images.githubusercontent.com/104009655/215286723-3defaee7-09e9-4fc6-8ab4-4d6187ffc001.png)
+## Features
 
-![Ekran görüntüsü 2023-01-28 221901](https://user-images.githubusercontent.com/104009655/215286846-86706df7-37a1-4764-b4b7-6aafa74c2a18.png)
+- Responsive design using Tailwind CSS
+- Interactive UI built with React
+- Showcases projects and skills
+- Contact form
 
-![Ekran görüntüsü 2023-01-28 221504](https://user-images.githubusercontent.com/104009655/215286732-3522a344-a21f-4a77-9c8f-dd72ce881288.png)
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
