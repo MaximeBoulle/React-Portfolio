@@ -1,0 +1,78 @@
+
+  
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+
+.reactlogo {
+    animation: reactlogo 2s infinite alternate linear;
+    -webkit-animation: reactlogo  4s infinite alternate linear;
+}
+
+.tailwindlogo {
+  animation: tailwindlogo 2s infinite alternate linear;
+  -webkit-animation: tailwindlogo  4s infinite alternate linear;
+}
+
+.vitejslogo {
+  animation: vitejslogo 2s infinite alternate linear;
+  -webkit-animation: vitejslogo  4s infinite alternate linear;
+}
+
+.contact {
+  animation: contact 2s infinite alternate linear;
+  -webkit-animation: contact  4s infinite alternate linear;
+}
+
+@keyframes contact {
+  0% {
+    left: -10%;
+  }
+
+  100% {
+    left: 0%;
+  }
+  
+}
+
+@keyframes vitejslogo {
+  0% {
+    left: 70%;
+    top: 65%;
+  }
+
+  100% {
+    left: 55%;
+    top: 45%;
+  }
+}
+
+@keyframes reactlogo {
+  0% {
+    left: 70%;
+    top: 10%;
+  }
+
+  100% {
+    left: 60%;
+    top: 20%;
+  }
+}
+
+
+@keyframes tailwindlogo {
+  0% {
+    left: 50%;
+    top: 45%;
+  }
+
+  100% {
+    left: 35%;
+    top: 25%;
+  }
+}
+
